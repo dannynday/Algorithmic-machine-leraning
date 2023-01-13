@@ -1,6 +1,6 @@
 # Machine Learning Trading Bot
 
-![Decorative image.](Images/14-challenge-image.png)
+![Decorative image.](14-challenge-image.png)
 
 In this new generation, speed give a competitive advantage. That is why in this challenge, I combined the algorithmic trading skills with the financial Python programming and machine learning to create an algorithmic trading bot that learns and adapts to new data and evolving markets. Using computer algorithms can be beneficial when it comes on  buy and sell faster than human traders
 
